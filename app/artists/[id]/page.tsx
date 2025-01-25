@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import { Button } from '@/components/ui/button'
-import BackButton from '@/src/app/components/BackButton'
+import BackButton from '../../components/BackButton'
 
 // This would typically come from an API or database
 const artist = {

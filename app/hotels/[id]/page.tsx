@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 import { Star, Wifi, Car, Coffee } from 'lucide-react'
-import BackButton from '@/src/app/components/BackButton'
+import BackButton from '../../components/BackButton'
 
 // This would typically come from an API or database
 const hotel = {
